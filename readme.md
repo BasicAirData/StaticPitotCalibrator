@@ -1,13 +1,10 @@
 BasicAirData (c) 2014 JLJ
 
-Pitot Static Calibrator:
-
-This repository is fo the Pitot Static Calibrator.
-OPEN PROJECT:
+This repository is fo the Pitot Static Calibrator project files
 
 BasicAirData is devoted to Open and free DIY air data instrumentation and telemetry.
-
-Downloadable description http://www.basicairdata.eu/attachments/others/BAD%20Brochure.pdf Every feedback and feature proposal is welcome
+Downloadable description http://www.basicairdata.eu/attachments/others/BAD%20Brochure.pdf
+Every feedback and feature proposal is welcome
 
 JLJ
 

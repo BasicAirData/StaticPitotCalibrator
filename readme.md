@@ -1,27 +1,19 @@
-BasicAirData (c) 2014 JLJ
+#BasicAirData-StaticPitotCalibrator
 
-This repository is fo the Pitot Static Calibrator project files
+[BasicAirData](http://www.basicairdata.eu) Open and free DIY air data instrumentation and telemetry 
 
-BasicAirData is devoted to Open and free DIY air data instrumentation and telemetry.
-Downloadable description http://www.basicairdata.eu/attachments/others/BAD%20Brochure.pdf
-Every feedback and feature proposal is welcome
+![StaticPitot](https://cloud.githubusercontent.com/assets/7497614/7476509/39ad0d52-f34e-11e4-8106-6df04d13034f.jpg)
 
-JLJ
+##Description##
 
-CURRENT MEMBERS :
+Project for a new, full automated, Pitot-Static Calibrator.
 
-http://www.basicairdata.eu/about.html
+##License##
+BasicAirData is free software licensed under [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.txt) General Public License
+[License information](http://www.basicairdata.eu/copyright.html)
 
-ON LINE REFERENCES :
+##Info##
+[Contact information](http://www.basicairdata.eu/social.html)
 
-Main site http://www.basicairdata.eu
-
-Forum http://basicairdata.freeforums.org/front-mounting-flange-for-8mm-pitot-f18.html
-
-Facebook page
-
-https://www.facebook.com/BasicAirData
-
-Google+
-
-https://plus.google.com/+basicairdataeu
+##Acknowledgements##
+[Current members](http://www.basicairdata.eu/about.html)

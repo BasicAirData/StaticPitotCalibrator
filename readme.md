@@ -6,7 +6,7 @@
 
 ##Description##
 
-Project for a new, full automated, Pitot-Static Calibrator.
+Project for a new, full automated, pitot-static tester / air data test set
 
 ##License and General Information
 [License and general info](https://github.com/BasicAirData/Document-Templates/blob/master/general-info.md)

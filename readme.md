@@ -1,4 +1,4 @@
-#BasicAirData-StaticPitotCalibrator
+#BasicAirData-Pitot-Static Tester/Calibrator
 
 [BasicAirData](http://www.basicairdata.eu) Open and free DIY air data instrumentation and telemetry 
 

@@ -14,4 +14,4 @@ Project for a new, full automated, pitot-static tester / air data test set
 
 [Contributing Information](CONTRIBUTING.md)
 
-[Genearal Repository License](LICENSE)
+[Repository License](LICENSE)
